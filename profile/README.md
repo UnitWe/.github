@@ -1,4 +1,4 @@
-# Plataforma Online para Estudantes e Professores
+# Sobre o CampusConnect
 
 ## Visão Geral
 
