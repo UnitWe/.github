@@ -51,7 +51,7 @@ Aqui estão algumas das tecnologias que estamos utilizando para desenvolver a pl
 ### Back-end
 
 - Node.js com Nest.js
-- Sequelize e Mongoose (para bancos de dados relacionais e não relacionais, respectivamente)
+- Prisma (para bancos de dados relacionais e não relacionais)
 - Arquitetura de microservices para escalabilidade
 
 ### Bancos de Dados
@@ -60,7 +60,7 @@ Aqui estão algumas das tecnologias que estamos utilizando para desenvolver a pl
 
 ### Serviços
 
-- AWS S3 para armazenamento de arquivos
+- Azure para banco de dados
 - Atlas do MongoDB para hospedar o banco de dados
 - Microsoft Teams, BeeCrowd, OpenAI, Git e GitHub para integração e colaboração.
 
